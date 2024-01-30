@@ -11,7 +11,7 @@ This project illustrates web caching between the client, proxy server, and the m
 
 ## Schematic and Diagram:
 
-Please refer to the [PDF file](./Web_Caching_Schematic.pdf) for a schematic and diagram depicting the web caching process.
+Please refer to the [Report](./Web_Caching_Report.pdf) for a schematic and diagram depicting the web caching process.
 
 ## Usage:
 ### Run the Python scripts for the client, proxy server, and main server:
